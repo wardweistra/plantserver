@@ -1,0 +1,2 @@
+recursive-include plantserver/templates *
+recursive-include plantserver/static *
